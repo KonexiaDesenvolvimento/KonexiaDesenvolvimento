@@ -1,38 +1,26 @@
-<img src="caminho/para/o/logo-konexia.png" alt="Logo Konexia Tecnologia" width="200"/> <!-- Ajuste o tamanho conforme necessário -->
+# KonexiaGroup
 
-<h1 align="center">KonsigSystem - Plataforma de Gestão de Crédito Consignado</h1>
+**KonexiaGroup** é um grupo empresarial diversificado, comprometido com inovação e excelência em diferentes setores. Nosso objetivo é agregar valor em cada área de atuação, sempre priorizando qualidade, responsabilidade e compromisso com o futuro.
 
-<p align="center">
-    <strong>Desenvolvido pela Konexia Tecnologia, parte do KonexiaGroup</strong>
-</p>
+## Empresas do Grupo
+
+### 1. **Protecnus Educacional**
+   - Especializada em material didático para todas as fases da educação, a **Protecnus Educacional** oferece soluções que atendem às exigências legais e orientações dos departamentos de educação dos países em que opera. Seu foco é fornecer materiais de alta qualidade que promovem o aprendizado e o desenvolvimento em diversos contextos educacionais.
+
+### 2. **Konexia Gestão**
+   - **Konexia Gestão** é responsável pela plataforma de Gestão de Margem Consignável, desenvolvida pela Konexia Tecnologia, que atende a órgãos públicos e empresas privadas com soluções robustas para gestão de crédito e margem consignável. Além disso, atua com serviços de consultoria para aprimorar a eficiência organizacional e estratégica.
+
+### 3. **Konexia Tecnologia**
+   - A **Konexia Tecnologia** é responsável pelos setores de tecnologia de todas as empresas do KonexiaGroup, dedicando-se ao desenvolvimento de soluções inovadoras. Seu principal projeto é o **KonsigSystem**, uma plataforma de gestão de crédito consignado que oferece controle e segurança no processo de concessão de crédito para o setor financeiro.
+
+### 4. **Konexia Aviação**
+   - **Konexia Aviação** opera como táxi aéreo e fornecedor de logística de transporte executivo, oferecendo soluções de mobilidade com segurança e agilidade para clientes corporativos e executivos.
+
+## Nossos Valores
+
+- **Inovação**: Buscamos novas soluções para superar desafios e agregar valor.
+- **Comprometimento**: Atuamos com dedicação e excelência em cada projeto.
+- **Sustentabilidade**: Valorizamos práticas que respeitem o meio ambiente e promovam o bem-estar social.
 
 ---
 
-## Sobre o Projeto
-
-O KonsigSystem é uma plataforma completa para a gestão de operações de crédito consignado, projetada para atender às necessidades de agências e instituições financeiras. Nosso objetivo é fornecer uma solução escalável e robusta, garantindo controle e agilidade nos processos de concessão, acompanhamento e análise de crédito.
-
-## Sobre Nós
-
-Este projeto é desenvolvido por **Konexia Tecnologia**, parte do **KonexiaGroup**, uma organização dedicada à inovação e ao desenvolvimento de soluções tecnológicas para o mercado financeiro.
-
-### Responsáveis
-- **Kleber Peréa** - Product Owner
-- **Elias Eduardo** - DBA e Product Owner
-
-## Funcionalidades Principais
-
-- **Gestão de Contratos**: Cadastro, atualização e acompanhamento de contratos de crédito.
-- **Relatórios Analíticos**: Geração de relatórios e gráficos para análise de performance e risco.
-- **Integração Bancária**: Conectividade com instituições financeiras para consulta e operações automatizadas.
-- **Segurança e Compliance**: Implementação de medidas de segurança para proteção de dados e adequação às regulamentações de mercado.
-
-## Tecnologias Utilizadas
-
-- **Backend**: Python, Django
-- **Frontend**: CoreUI, Bootstrap
-- **Banco de Dados**: (Especificar o banco utilizado, ex: PostgreSQL, MySQL)
-
-## Como Contribuir
-
-Para contribuições e sugestões, contate os responsáveis pelo projeto. Este repositório está atualmente configurado como privado, sendo necessário convite para acessá-lo.
